@@ -11,8 +11,8 @@ humandate: "TENTATIVE — week of Aug 24-28, 2026 (unconfirmed, pending Carpentr
 humantime: "9:00 am - 1:00 pm PT (proposed; four half-days)"
 startdate: 2026-08-24
 enddate: 2026-08-28
-instructor: ["Toby Hodges (The Carpentries)"]
-helper: ["Tim Dennis (UCLA / UC OSPO Network)"]
+instructor: ["Tim Dennis (UCLA / UC OSPO Network)"]
+helper: []
 email: ["tdennis@library.ucla.edu"]
 # Optional variables
 collaborative_notes:
@@ -536,7 +536,7 @@ of code below the Schedule `<h2>` header below with
 <div class="card mb-2">
   <h5 class="card-header">Schedule</h5>
   <div class="card-body">
-    <p class="text-muted"><em>Draft agenda below, adapted from the standard Carpentries CLDT structure — to be confirmed with Toby Hodges once dates are locked.</em></p>
+    <p class="text-muted"><em>Draft agenda below, adapted from the standard Carpentries CLDT structure — to be finalized once dates are locked.</em></p>
     <div class="row">
       <div class="col-md-6">
         <h6>Day 1</h6>
