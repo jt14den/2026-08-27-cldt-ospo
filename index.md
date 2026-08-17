@@ -423,10 +423,10 @@ address.
           <li>Karla Padilla — lead</li>
           <li>Reid Otsuji (UC San Diego)</li>
           <li>Laura Langdon</li>
+          <li>Jose Niño Muriel (UC Santa Barbara)</li>
         </ul>
       </div>
     </div>
-    <p class="text-muted mt-2 mb-0"><em>Rosters as confirmed 2026-07-10; a 4th/5th seat per cohort was still pending as of that date.</em></p>
   </div>
 </div>
 

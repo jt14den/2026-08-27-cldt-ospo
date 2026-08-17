@@ -24,12 +24,12 @@
 
 ## Cohorts
 
-| Cohort | Topic | Lead | Roster (confirmed 2026-07-10) |
+| Cohort | Topic | Lead | Roster |
 |---|---|---|---|
 | 1. Librarians as Open Source Stewards | Scoped | Anna Sackmann | Anna Sackmann, Sam Teplitzky, Jake Gibson, Rachel Torres (all UC Berkeley) |
-| 2. Software Licensing | Scoped (issue #83) | Karla Padilla | Karla Padilla, Reid Otsuji, Laura Langdon |
+| 2. Software Licensing | Scoped (issue #83) | Karla Padilla | Karla Padilla, Reid Otsuji, Laura Langdon, Jose Niño Muriel (UCSB) |
 
-Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10); was deciding between joining Stewards or Licensing as a possible 4th/5th seat as of 2026-07-10 — outcome not yet recorded in the vault.
+Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and joined Licensing as its 4th member.
 
 ## Status
 
