@@ -14,10 +14,9 @@
 | Mode | online |
 | Format | 4 half-days, 12 hours live instruction, lesson writing happens in the workshop |
 | Host institution | UCLA / UC OSPO Network |
-| Daily times + timezone | 9:00 AM – 1:00 PM PT (proposed) |
+| Daily times + timezone | Afternoon block, likely starting after 3:00 PM PT (exact time TBD) |
 | Contact email | tdennis@library.ucla.edu |
-| Trainer | Tim Dennis (UCLA / UC OSPO Network) |
-| Carpentries scheduling contact | Toby Hodges — coordinating dates/logistics, not the trainer |
+| Trainer | Tim Dennis (UCLA / UC OSPO Network) — organizing and teaching directly, not Toby |
 | Registration | Closed cohort — not public |
 | GitHub repo | jt14den/2026-tbd-cldt-ospo (placeholder — not yet created/pushed) |
 | GitHub Pages URL | TBD once repo is created |
@@ -39,8 +38,8 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [x] Custom "Who Can Attend" + "Participants" sections added (closed cohort, not public template content)
 - [x] Custom 4-half-day schedule drafted (backward design → objectives → episodes/exercises → drafting/pilot planning) — **draft only, not yet finalized**
 - [x] Custom Setup section (Carpentries Workbench + GitHub, not a domain-specific curriculum)
-- [ ] Lock training dates via Toby Hodges (Carpentries scheduling contact) — last known state (2026-07-10): LettuceMeet poll out for Aug 10-28 windows, not yet confirmed
-- [ ] Confirm Jose's cohort choice (Stewards vs Licensing) and update roster
+- [ ] Lock exact time-of-day for Aug 24-28 — best-fit read as of 2026-08-17 is an afternoon block starting after 3pm PT (clears Jose's and Karla's known conflicts); still waiting on Reid, Laura (Licensing) and Anna, Sam, Jake, Rachel (Stewards) to confirm
+- [x] Jose's cohort choice confirmed: Licensing (roster updated 2026-08-17)
 - [ ] Create GitHub repo (`jt14den/<real-slug>`) once dates are locked and rename this directory to match the real `YYYY-MM-DD-slug` convention
 - [ ] Enable GitHub Pages
 - [ ] Fill in `collaborative_notes` (Carpentries Etherpad, if provided)

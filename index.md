@@ -7,8 +7,8 @@ country: "us"
 language: "en"
 latitude: "34.0700"
 longitude: "-118.4440"
-humandate: "TENTATIVE — week of Aug 24-28, 2026 (unconfirmed, pending Carpentries scheduling)"
-humantime: "9:00 am - 1:00 pm PT (proposed; four half-days)"
+humandate: "TENTATIVE — week of Aug 24-28, 2026 (pending final availability confirmations)"
+humantime: "Afternoon block, likely starting after 3:00 pm PT (exact time TBD; four half-days)"
 startdate: 2026-08-24
 enddate: 2026-08-28
 instructor: ["Tim Dennis (UCLA / UC OSPO Network)"]
@@ -541,21 +541,21 @@ of code below the Schedule `<h2>` header below with
       <div class="col-md-6">
         <h6>Day 1</h6>
         <table class="table table-striped">
-          <tr><td>9:00</td><td>Welcome, CLDT overview, backward design intro</td></tr>
-          <tr><td>10:00</td><td>Identifying your learners: audience &amp; personas</td></tr>
-          <tr><td>11:00</td><td>Break</td></tr>
-          <tr><td>11:15</td><td>Drafting terminal &amp; enabling learning objectives</td></tr>
-          <tr><td>12:30</td><td>Team work time / wrap-up</td></tr>
+          <tr><td>3:00</td><td>Welcome, CLDT overview, backward design intro</td></tr>
+          <tr><td>4:00</td><td>Identifying your learners: audience &amp; personas</td></tr>
+          <tr><td>5:00</td><td>Break</td></tr>
+          <tr><td>5:15</td><td>Drafting terminal &amp; enabling learning objectives</td></tr>
+          <tr><td>6:30</td><td>Team work time / wrap-up</td></tr>
         </table>
       </div>
       <div class="col-md-6">
         <h6>Day 2</h6>
         <table class="table table-striped">
-          <tr><td>9:00</td><td>Review objectives; cognitive load &amp; sequencing</td></tr>
-          <tr><td>10:00</td><td>Structuring episodes from objectives</td></tr>
-          <tr><td>11:00</td><td>Break</td></tr>
-          <tr><td>11:15</td><td>Designing formative exercises</td></tr>
-          <tr><td>12:30</td><td>Team work time / wrap-up</td></tr>
+          <tr><td>3:00</td><td>Review objectives; cognitive load &amp; sequencing</td></tr>
+          <tr><td>4:00</td><td>Structuring episodes from objectives</td></tr>
+          <tr><td>5:00</td><td>Break</td></tr>
+          <tr><td>5:15</td><td>Designing formative exercises</td></tr>
+          <tr><td>6:30</td><td>Team work time / wrap-up</td></tr>
         </table>
       </div>
     </div>
@@ -563,21 +563,21 @@ of code below the Schedule `<h2>` header below with
       <div class="col-md-6">
         <h6>Day 3</h6>
         <table class="table table-striped">
-          <tr><td>9:00</td><td>Carpentries Workbench mechanics (sandpaper, episode/lesson structure)</td></tr>
-          <tr><td>10:00</td><td>Drafting episode content in teams</td></tr>
-          <tr><td>11:00</td><td>Break</td></tr>
-          <tr><td>11:15</td><td>Peer feedback across cohorts</td></tr>
-          <tr><td>12:30</td><td>Team work time / wrap-up</td></tr>
+          <tr><td>3:00</td><td>Carpentries Workbench mechanics (sandpaper, episode/lesson structure)</td></tr>
+          <tr><td>4:00</td><td>Drafting episode content in teams</td></tr>
+          <tr><td>5:00</td><td>Break</td></tr>
+          <tr><td>5:15</td><td>Peer feedback across cohorts</td></tr>
+          <tr><td>6:30</td><td>Team work time / wrap-up</td></tr>
         </table>
       </div>
       <div class="col-md-6">
         <h6>Day 4</h6>
         <table class="table table-striped">
-          <tr><td>9:00</td><td>Finalizing lesson outline &amp; draft sections</td></tr>
-          <tr><td>10:00</td><td>Pilot-teach planning &amp; timeline</td></tr>
-          <tr><td>11:00</td><td>Break</td></tr>
-          <tr><td>11:15</td><td>Next steps: repo setup, Zenodo DOI, checkout path</td></tr>
-          <tr><td>12:30</td><td>Wrap-up &amp; retro</td></tr>
+          <tr><td>3:00</td><td>Finalizing lesson outline &amp; draft sections</td></tr>
+          <tr><td>4:00</td><td>Pilot-teach planning &amp; timeline</td></tr>
+          <tr><td>5:00</td><td>Break</td></tr>
+          <tr><td>5:15</td><td>Next steps: repo setup, Zenodo DOI, checkout path</td></tr>
+          <tr><td>6:30</td><td>Wrap-up &amp; retro</td></tr>
         </table>
       </div>
     </div>
