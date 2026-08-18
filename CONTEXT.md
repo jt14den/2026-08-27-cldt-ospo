@@ -9,12 +9,12 @@
 | Workshop title | UC OSPO Collaborative Lesson Development Training |
 | Carpentry type | cp (Carpentries — custom/instructor-style training) |
 | Curriculum / flavor | n/a |
-| Start date | 2026-08-24 (week) — **Thu 8/27 confirmed**, Fri 8/28 proposed (possibly full day), rest TBD |
-| End date | 2026-08-28 (week) |
+| Start date | **TARGET:** Thu 8/27 (morning) — not yet confirmed with everyone |
+| End date | **TARGET:** Fri 8/28 (full day) — 4+8 = 12 hours exactly, no additional days |
 | Mode | online |
-| Format | Flexible: 2 full days, 3x4hr, or 4x3hr — 12 hours live instruction total, lesson writing happens in the workshop; sessions recorded |
+| Format | Thu AM (4hrs) + Fri full day (8hrs) = 12 hours total; sessions recorded. Fallback: push to September if this doesn't land, though that risks losing Jose (funded time ends Aug 31) |
 | Host institution | UCLA / UC OSPO Network |
-| Daily times + timezone | Mornings PT, exact time TBD |
+| Daily times + timezone | Thu: morning PT, exact time TBD. Fri: full day PT, exact times TBD |
 | Contact email | tdennis@library.ucla.edu |
 | Trainer | Tim Dennis (UCLA / UC OSPO Network) — organizing and teaching directly, not Toby |
 | Registration | Closed cohort — not public |
@@ -36,14 +36,15 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [x] `_config.yml` configured (carpentry: cp, title, contact)
 - [x] `index.md` front matter drafted — **dates are placeholders, not confirmed**
 - [x] Custom "Who Can Attend" + "Participants" sections added (closed cohort, not public template content)
-- [x] Custom 4-half-day schedule drafted (backward design → objectives → episodes/exercises → drafting/pilot planning) — **draft only, not yet finalized**
+- [x] 2-day schedule drafted: Thu AM (backward design, personas, objectives) + Fri full day (episodes, Workbench, drafting, pilot planning) — **draft only, not yet finalized**
 - [x] Custom Setup section (Carpentries Workbench + GitHub, not a domain-specific curriculum)
 - [x] Day 1 confirmed: Thu 8/27, morning (Anna's group + Jose + Tim confirmed 2026-08-17; Laura also available then)
-- [ ] Fri 8/28 proposed, possibly a full day (Laura available all day; fits Jose and Karla too) — not yet confirmed with Anna's group or Reid
-- [ ] Undecided whether Thu AM + Fri (full day) covers all 12 hours, or 2 more sessions are still needed — route around Karla's Wed 8/26 and Thu 8/27 11am-12pm conflicts if any land on those days
+- [ ] Day 2 target: Fri 8/28 full day — fits Laura, Jose, Karla; not yet confirmed with Anna's group or Reid
+- [x] Format resolved: Thu AM (4hrs) + Fri full day (8hrs) = 12 hours exactly, no additional days needed if this lands (2026-08-17)
 - [ ] Reid (Licensing) still hasn't responded at all
 - [x] Jose's cohort choice confirmed: Licensing (roster updated 2026-08-17)
 - [x] Sent format/recording/post-workshop-support email to Anna, Jose, Karla, Laura (cc) 2026-08-17
+- [ ] Jose's funded time ends Aug 31 hard — if Thu/Fri doesn't land for enough people, fallback is September, but that risks losing Jose depending on final dates
 - [ ] Create GitHub repo (`jt14den/<real-slug>`) once dates are locked and rename this directory to match the real `YYYY-MM-DD-slug` convention
 - [ ] Enable GitHub Pages
 - [ ] Fill in `collaborative_notes` (Carpentries Etherpad, if provided)

@@ -7,8 +7,8 @@ country: "us"
 language: "en"
 latitude: "34.0700"
 longitude: "-118.4440"
-humandate: "TENTATIVE — week of Aug 24-28, 2026; Thu 8/27 confirmed, Fri 8/28 proposed, 2 more half-days TBD"
-humantime: "Mornings PT, exact time TBD (four half-days total)"
+humandate: "TARGET — Thu 8/27 (morning) + Fri 8/28 (full day), 2026; not yet confirmed with everyone"
+humantime: "Thu: morning PT, exact time TBD. Fri: full day PT, exact times TBD"
 startdate: 2026-08-24
 enddate: 2026-08-28
 instructor: ["Tim Dennis (UCLA / UC OSPO Network)"]
@@ -539,53 +539,38 @@ of code below the Schedule `<h2>` header below with
   <div class="card-body">
     <p class="text-muted"><em>Draft agenda below, adapted from the standard Carpentries CLDT structure — to be finalized once dates are locked.</em></p>
     <p class="text-muted">
-      Format is flexible to fit everyone's calendars: <strong>2 full days</strong>, <strong>3 four-hour sessions</strong>,
-      or <strong>4 three-hour sessions</strong> all cover the same 12 hours of live instruction. Sessions are recorded,
-      so a missed session (or stepping out for an hour for another meeting) isn't a blocker — you can catch up on the
-      recording and get a quick team catch-up from your cohort.
+      Sessions are recorded, so a missed session (or stepping out for an hour for another meeting) isn't a blocker —
+      you can catch up on the recording and get a quick team catch-up from your cohort.
     </p>
-    <p class="text-muted"><strong>Dates as of 2026-08-17:</strong> Thu 8/27 AM confirmed. Fri 8/28 proposed, possibly as a full day rather than a half-day, still being confirmed. Whether that covers all 12 hours or 2 more sessions are still needed is undecided. Day breakdown below assumes 4 sessions and is illustrative, not a confirmed day-by-day mapping.</p>
+    <p class="text-muted">
+      <strong>Target as of 2026-08-17:</strong> Thu 8/27 (morning, ~4 hrs) + Fri 8/28 (full day, ~8 hrs) = 12 hours,
+      the whole training in one week. Not yet confirmed with everyone — still waiting on Reid, and on whether Anna's
+      Stewards group and Laura can do a full Friday. Fallback if it doesn't land for enough people: push to
+      September rather than force a scattered version, though that risks losing Jose given his funding runs through
+      Aug 31 only.
+    </p>
     <div class="row">
-      <div class="col-md-6">
-        <h6>Day 1</h6>
+      <div class="col-md-5">
+        <h6>Day 1 — Thu 8/27, morning</h6>
         <table class="table table-striped">
-          <tr><td>9:00</td><td>Welcome, CLDT overview, backward design intro</td></tr>
-          <tr><td>10:00</td><td>Identifying your learners: audience &amp; personas</td></tr>
-          <tr><td>11:00</td><td>Break</td></tr>
-          <tr><td>11:15</td><td>Drafting terminal &amp; enabling learning objectives</td></tr>
-          <tr><td>12:30</td><td>Team work time / wrap-up</td></tr>
+          <tr><td>Welcome, CLDT overview, backward design intro</td></tr>
+          <tr><td>Identifying your learners: audience &amp; personas</td></tr>
+          <tr><td>Break</td></tr>
+          <tr><td>Drafting terminal &amp; enabling learning objectives</td></tr>
         </table>
       </div>
-      <div class="col-md-6">
-        <h6>Day 2</h6>
+      <div class="col-md-7">
+        <h6>Day 2 — Fri 8/28, full day</h6>
         <table class="table table-striped">
-          <tr><td>9:00</td><td>Review objectives; cognitive load &amp; sequencing</td></tr>
-          <tr><td>10:00</td><td>Structuring episodes from objectives</td></tr>
-          <tr><td>11:00</td><td>Break</td></tr>
-          <tr><td>11:15</td><td>Designing formative exercises</td></tr>
-          <tr><td>12:30</td><td>Team work time / wrap-up</td></tr>
-        </table>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <h6>Day 3</h6>
-        <table class="table table-striped">
-          <tr><td>9:00</td><td>Carpentries Workbench mechanics (sandpaper, episode/lesson structure)</td></tr>
-          <tr><td>10:00</td><td>Drafting episode content in teams</td></tr>
-          <tr><td>11:00</td><td>Break</td></tr>
-          <tr><td>11:15</td><td>Peer feedback across cohorts</td></tr>
-          <tr><td>12:30</td><td>Team work time / wrap-up</td></tr>
-        </table>
-      </div>
-      <div class="col-md-6">
-        <h6>Day 4</h6>
-        <table class="table table-striped">
-          <tr><td>9:00</td><td>Finalizing lesson outline &amp; draft sections</td></tr>
-          <tr><td>10:00</td><td>Pilot-teach planning &amp; timeline</td></tr>
-          <tr><td>11:00</td><td>Break</td></tr>
-          <tr><td>11:15</td><td>Next steps: repo setup, Zenodo DOI, checkout path</td></tr>
-          <tr><td>12:30</td><td>Wrap-up &amp; retro</td></tr>
+          <tr><td>Review objectives; cognitive load &amp; sequencing</td></tr>
+          <tr><td>Structuring episodes from objectives; designing formative exercises</td></tr>
+          <tr><td>Break</td></tr>
+          <tr><td>Carpentries Workbench mechanics (sandpaper, episode/lesson structure)</td></tr>
+          <tr><td>Drafting episode content in teams; peer feedback across cohorts</td></tr>
+          <tr><td>Lunch break</td></tr>
+          <tr><td>Finalizing lesson outline &amp; draft sections</td></tr>
+          <tr><td>Pilot-teach planning &amp; timeline; next steps (repo setup, Zenodo DOI, checkout path)</td></tr>
+          <tr><td>Wrap-up &amp; retro</td></tr>
         </table>
       </div>
     </div>
