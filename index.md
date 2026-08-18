@@ -332,9 +332,10 @@ address.
             Modify or remove the block below if you plan to record the workshop.
             {% endcomment %}
             <p id="recordings">
-            Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another.
-            To foster a positive online learning environment, we strongly recommend that participants join in real time.
-            As a result, workshop recordings are not recommended and may not be available to learners.
+            We strongly recommend joining live, since this training is interactive and each session builds on the last.
+            That said, we know availability across four teams and multiple time zones is a real crunch — sessions will
+            be recorded, so if you have to miss one (or step out for an hour for another meeting) you can catch up on
+            the recording and get a team catch-up from your cohort.
             </p>
         </dd>
     </div>
@@ -537,7 +538,13 @@ of code below the Schedule `<h2>` header below with
   <h5 class="card-header">Schedule</h5>
   <div class="card-body">
     <p class="text-muted"><em>Draft agenda below, adapted from the standard Carpentries CLDT structure — to be finalized once dates are locked.</em></p>
-    <p class="text-muted"><strong>Dates as of 2026-08-17:</strong> Thu 8/27 AM confirmed; Fri 8/28 AM proposed (not yet confirmed); 2 more half-days still to be scheduled. Order below is illustrative, not a confirmed day-by-day mapping.</p>
+    <p class="text-muted">
+      Format is flexible to fit everyone's calendars: <strong>2 full days</strong>, <strong>3 four-hour sessions</strong>,
+      or <strong>4 three-hour sessions</strong> all cover the same 12 hours of live instruction. Sessions are recorded,
+      so a missed session (or stepping out for an hour for another meeting) isn't a blocker — you can catch up on the
+      recording and get a quick team catch-up from your cohort.
+    </p>
+    <p class="text-muted"><strong>Dates as of 2026-08-17:</strong> Thu 8/27 AM confirmed. Fri 8/28 proposed, possibly as a full day rather than a half-day, still being confirmed. Whether that covers all 12 hours or 2 more sessions are still needed is undecided. Day breakdown below assumes 4 sessions and is illustrative, not a confirmed day-by-day mapping.</p>
     <div class="row">
       <div class="col-md-6">
         <h6>Day 1</h6>
@@ -593,6 +600,19 @@ of code below the Schedule `<h2>` header below with
     The lesson taught in this workshop is being piloted and a precise schedule is yet to be established.
     The workshop will include regular breaks. Please <a href="mailto:{{page.email}}">contact the workshop organisers</a> if you would like more information about the planned schedule.
     {% endif %}
+  </div>
+</div>
+
+<div class="card mb-2">
+  <h5 class="card-header">After the Live Training</h5>
+  <div class="card-body">
+    <p>
+      Live instruction is the start, not the finish. Support continues afterward — Tim will go over content with
+      teams, help with the Carpentries Workbench lesson infrastructure and markdown/markup, and work alongside each
+      team as they build out their lesson repo in the UC-OSPO-Network GitHub organization. This mirrors what worked
+      well for the IMLS Open Science lesson cohorts: post-workshop coaching, not just a one-time training, is what
+      gets a lesson from outline to a real draft ready to pilot.
+    </p>
   </div>
 </div>
 

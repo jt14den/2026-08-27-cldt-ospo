@@ -9,10 +9,10 @@
 | Workshop title | UC OSPO Collaborative Lesson Development Training |
 | Carpentry type | cp (Carpentries — custom/instructor-style training) |
 | Curriculum / flavor | n/a |
-| Start date | 2026-08-24 (week) — **Thu 8/27 confirmed**, Fri 8/28 proposed, 2 more half-days TBD |
+| Start date | 2026-08-24 (week) — **Thu 8/27 confirmed**, Fri 8/28 proposed (possibly full day), rest TBD |
 | End date | 2026-08-28 (week) |
 | Mode | online |
-| Format | 4 half-days, 12 hours live instruction, lesson writing happens in the workshop |
+| Format | Flexible: 2 full days, 3x4hr, or 4x3hr — 12 hours live instruction total, lesson writing happens in the workshop; sessions recorded |
 | Host institution | UCLA / UC OSPO Network |
 | Daily times + timezone | Mornings PT, exact time TBD |
 | Contact email | tdennis@library.ucla.edu |
@@ -38,11 +38,12 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [x] Custom "Who Can Attend" + "Participants" sections added (closed cohort, not public template content)
 - [x] Custom 4-half-day schedule drafted (backward design → objectives → episodes/exercises → drafting/pilot planning) — **draft only, not yet finalized**
 - [x] Custom Setup section (Carpentries Workbench + GitHub, not a domain-specific curriculum)
-- [x] Day 1 confirmed: Thu 8/27, morning (Anna's group + Jose + Tim all confirmed 2026-08-17)
-- [ ] Day 2 proposed: Fri 8/28 morning — not yet confirmed with anyone
-- [ ] Days 3 and 4 — no candidates yet; route around Karla's Wed 8/26 and Thu 8/27 11am-12pm conflicts if either lands on those days
-- [ ] Reid, Laura (Licensing) still haven't weighed in on the week at all
+- [x] Day 1 confirmed: Thu 8/27, morning (Anna's group + Jose + Tim confirmed 2026-08-17; Laura also available then)
+- [ ] Fri 8/28 proposed, possibly a full day (Laura available all day; fits Jose and Karla too) — not yet confirmed with Anna's group or Reid
+- [ ] Undecided whether Thu AM + Fri (full day) covers all 12 hours, or 2 more sessions are still needed — route around Karla's Wed 8/26 and Thu 8/27 11am-12pm conflicts if any land on those days
+- [ ] Reid (Licensing) still hasn't responded at all
 - [x] Jose's cohort choice confirmed: Licensing (roster updated 2026-08-17)
+- [x] Sent format/recording/post-workshop-support email to Anna, Jose, Karla, Laura (cc) 2026-08-17
 - [ ] Create GitHub repo (`jt14den/<real-slug>`) once dates are locked and rename this directory to match the real `YYYY-MM-DD-slug` convention
 - [ ] Enable GitHub Pages
 - [ ] Fill in `collaborative_notes` (Carpentries Etherpad, if provided)
