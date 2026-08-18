@@ -9,12 +9,12 @@
 | Workshop title | UC OSPO Collaborative Lesson Development Training |
 | Carpentry type | cp (Carpentries — custom/instructor-style training) |
 | Curriculum / flavor | n/a |
-| Start date | **TENTATIVE** 2026-08-24 (unconfirmed) |
-| End date | **TENTATIVE** 2026-08-28 (unconfirmed) |
+| Start date | 2026-08-24 (week) — **Thu 8/27 confirmed**, Fri 8/28 proposed, 2 more half-days TBD |
+| End date | 2026-08-28 (week) |
 | Mode | online |
 | Format | 4 half-days, 12 hours live instruction, lesson writing happens in the workshop |
 | Host institution | UCLA / UC OSPO Network |
-| Daily times + timezone | Afternoon block, likely starting after 3:00 PM PT (exact time TBD) |
+| Daily times + timezone | Mornings PT, exact time TBD |
 | Contact email | tdennis@library.ucla.edu |
 | Trainer | Tim Dennis (UCLA / UC OSPO Network) — organizing and teaching directly, not Toby |
 | Registration | Closed cohort — not public |
@@ -38,7 +38,10 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [x] Custom "Who Can Attend" + "Participants" sections added (closed cohort, not public template content)
 - [x] Custom 4-half-day schedule drafted (backward design → objectives → episodes/exercises → drafting/pilot planning) — **draft only, not yet finalized**
 - [x] Custom Setup section (Carpentries Workbench + GitHub, not a domain-specific curriculum)
-- [ ] Lock exact time-of-day for Aug 24-28 — best-fit read as of 2026-08-17 is an afternoon block starting after 3pm PT (clears Jose's and Karla's known conflicts); still waiting on Reid, Laura (Licensing) and Anna, Sam, Jake, Rachel (Stewards) to confirm
+- [x] Day 1 confirmed: Thu 8/27, morning (Anna's group + Jose + Tim all confirmed 2026-08-17)
+- [ ] Day 2 proposed: Fri 8/28 morning — not yet confirmed with anyone
+- [ ] Days 3 and 4 — no candidates yet; route around Karla's Wed 8/26 and Thu 8/27 11am-12pm conflicts if either lands on those days
+- [ ] Reid, Laura (Licensing) still haven't weighed in on the week at all
 - [x] Jose's cohort choice confirmed: Licensing (roster updated 2026-08-17)
 - [ ] Create GitHub repo (`jt14den/<real-slug>`) once dates are locked and rename this directory to match the real `YYYY-MM-DD-slug` convention
 - [ ] Enable GitHub Pages
