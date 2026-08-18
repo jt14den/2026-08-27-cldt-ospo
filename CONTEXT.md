@@ -19,7 +19,7 @@
 | Trainer | Tim Dennis (UCLA / UC OSPO Network) — organizing and teaching directly, not Toby |
 | Registration | Closed cohort — not public |
 | GitHub repo | jt14den/2026-08-27-cldt-ospo |
-| GitHub Pages URL | https://jt14den.github.io/2026-08-27-cldt-ospo |
+| GitHub Pages URL | https://www.tim-dennis.com/2026-08-27-cldt-ospo/ (custom domain, same as the other workshop repos) |
 
 ## Cohorts
 
@@ -46,7 +46,7 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [x] Sent format/recording/post-workshop-support email to Anna, Jose, Karla, Laura (cc) 2026-08-17
 - [ ] Jose's funded time ends Aug 31 hard — if Thu/Fri doesn't land for enough people, fallback is September, but that risks losing Jose depending on final dates
 - [x] Created GitHub repo `jt14den/2026-08-27-cldt-ospo` (public) and pushed `gh-pages` branch, 2026-08-17
-- [ ] Enable GitHub Pages
+- [x] GitHub Pages enabled (auto-enabled on push; already building as of 2026-08-17)
 - [ ] Fill in `collaborative_notes` (Carpentries Etherpad, if provided)
 - [ ] Confirm whether Eventbrite/registration is needed at all (currently: no, closed cohort)
 
