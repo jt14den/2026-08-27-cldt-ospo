@@ -84,7 +84,7 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: jt14den/2026-tbd-cldt-ospo
+repository: jt14den/2026-08-27-cldt-ospo
 
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set

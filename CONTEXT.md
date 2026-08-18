@@ -18,8 +18,8 @@
 | Contact email | tdennis@library.ucla.edu |
 | Trainer | Tim Dennis (UCLA / UC OSPO Network) — organizing and teaching directly, not Toby |
 | Registration | Closed cohort — not public |
-| GitHub repo | jt14den/2026-tbd-cldt-ospo (placeholder — not yet created/pushed) |
-| GitHub Pages URL | TBD once repo is created |
+| GitHub repo | jt14den/2026-08-27-cldt-ospo |
+| GitHub Pages URL | https://jt14den.github.io/2026-08-27-cldt-ospo |
 
 ## Cohorts
 
@@ -45,7 +45,7 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [x] Jose's cohort choice confirmed: Licensing (roster updated 2026-08-17)
 - [x] Sent format/recording/post-workshop-support email to Anna, Jose, Karla, Laura (cc) 2026-08-17
 - [ ] Jose's funded time ends Aug 31 hard — if Thu/Fri doesn't land for enough people, fallback is September, but that risks losing Jose depending on final dates
-- [ ] Create GitHub repo (`jt14den/<real-slug>`) once dates are locked and rename this directory to match the real `YYYY-MM-DD-slug` convention
+- [x] Created GitHub repo `jt14den/2026-08-27-cldt-ospo` (public) and pushed `gh-pages` branch, 2026-08-17
 - [ ] Enable GitHub Pages
 - [ ] Fill in `collaborative_notes` (Carpentries Etherpad, if provided)
 - [ ] Confirm whether Eventbrite/registration is needed at all (currently: no, closed cohort)
@@ -53,6 +53,6 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 ## Open Issues / Notes
 
 - This site is **not a public open-enrollment workshop** like `2026-05-11-uc-lc` — it's a closed, custom CLDT cohort training. The "Who Can Attend" section reflects that explicitly.
-- Directory is named `2026-tbd-cldt-ospo` as a placeholder. Rename to the real Carpentries slug format (`YYYY-MM-DD-cldt-ospo` or similar) once dates lock, per workshop-template convention (see this repo's `README.md`, "Creating a Repository").
+- Directory and repo renamed from the `2026-tbd-cldt-ospo` placeholder to `2026-08-27-cldt-ospo` on 2026-08-17, using the target start date (Thu 8/27) even though it's not fully confirmed yet (waiting on Reid). If the training slips to September, rename again.
 - Source docs for this training: `~/obsidian/active/CLDT-cohort-coordination-plan.md`, `CLDT-one-pager.md`, `CLDT-committee-brief.md`, `~/obsidian/reference/wiki/ospo/carpentries-cldt.md`.
 - Draft schedule was synthesized from the CLDT wiki article's description of the backward-design curriculum, not a pre-existing agenda — review before publishing.
