@@ -7,8 +7,8 @@ country: "us"
 language: "en"
 latitude: "34.0700"
 longitude: "-118.4440"
-humandate: "TARGET — Thu 8/27 (morning) + Fri 8/28 (full day), 2026; not yet confirmed with everyone"
-humantime: "Thu: morning PT, exact time TBD. Fri: full day PT, exact times TBD"
+humandate: "Licensing LOCKED: Thu 8/27 (afternoon) + Fri 8/28 (full day), 2026. Stewards: TBD, may join same session or a later week"
+humantime: "Thu: afternoon PT, exact time TBD. Fri: full day PT, exact times TBD"
 startdate: 2026-08-24
 enddate: 2026-08-28
 instructor: ["Tim Dennis (UCLA / UC OSPO Network)"]
@@ -396,7 +396,9 @@ address.
     <p id="who-can-attend">
       This training is closed to two confirmed UC OSPO Network lesson development cohorts:
       <strong>Librarians as Open Source Stewards</strong> (UC Berkeley Library Data Services) and
-      <strong>Software Licensing</strong>. It is not open for public registration. If you're
+      <strong>Software Licensing</strong>. It is not open for public registration. Both cohorts get
+      the same content, so Stewards has the option to join Licensing's locked session (Thu 8/27 PM +
+      Fri 8/28) instead of a separate one, if that timing works for enough of the team. If you're
       interested in a future UC OSPO CLDT cohort, contact
       <a href="mailto:tdennis@library.ucla.edu">tdennis@library.ucla.edu</a>.
     </p>
@@ -409,23 +411,31 @@ address.
     <div class="row">
       <div class="col-md-6">
         <h6>Cohort 1: Librarians as Open Source Stewards</h6>
-        <p class="text-muted mb-1">Lead contact: Anna Sackmann</p>
+        <p class="text-muted mb-1">
+          Lead contact: Anna Sackmann &middot;
+          <a href="https://github.com/UC-OSPO-Network/education/issues/121">lesson concept (issue #121)</a>
+        </p>
         <ul>
           <li>Anna Sackmann (UC Berkeley) — Data Services Librarian, lead contact</li>
           <li>Sam Teplitzky (UC Berkeley) — Open Science Librarian</li>
           <li>Jake Gibson (UC Berkeley) — Data Curator</li>
           <li>Rachel Torres (UC Berkeley) — Data Instruction and Outreach Librarian</li>
         </ul>
+        <p class="text-muted mb-0"><em>Schedule: TBD. May join Licensing's Thu 8/27 PM + Fri 8/28 session, or a separate week — a fresh availability poll is going out (one team member works EST Tue-Thu).</em></p>
       </div>
       <div class="col-md-6">
         <h6>Cohort 2: Software Licensing</h6>
-        <p class="text-muted mb-1">Lead contact: Karla Padilla</p>
+        <p class="text-muted mb-1">
+          Lead contact: Karla Padilla &middot;
+          <a href="https://github.com/UC-OSPO-Network/education/issues/83">lesson concept (issue #83)</a>
+        </p>
         <ul>
           <li>Karla Padilla — lead</li>
           <li>Reid Otsuji (UC San Diego)</li>
           <li>Laura Langdon</li>
           <li>Jose Niño Muriel (UC Santa Barbara)</li>
         </ul>
+        <p class="text-muted mb-0"><em>Schedule: locked — Thu 8/27 afternoon + Fri 8/28 (full day).</em></p>
       </div>
     </div>
   </div>
@@ -537,21 +547,21 @@ of code below the Schedule `<h2>` header below with
 <div class="card mb-2">
   <h5 class="card-header">Schedule</h5>
   <div class="card-body">
-    <p class="text-muted"><em>Draft agenda below, adapted from the standard Carpentries CLDT structure — to be finalized once dates are locked.</em></p>
+    <p class="text-muted"><em>Draft agenda below, adapted from the standard Carpentries CLDT structure.</em></p>
     <p class="text-muted">
       Sessions are recorded, so a missed session (or stepping out for an hour for another meeting) isn't a blocker —
       you can catch up on the recording and get a quick team catch-up from your cohort.
     </p>
+
+    <h6 class="mt-3">Licensing cohort — locked</h6>
     <p class="text-muted">
-      <strong>Target as of 2026-08-17:</strong> Thu 8/27 (morning, ~4 hrs) + Fri 8/28 (full day, ~8 hrs) = 12 hours,
-      the whole training in one week. Not yet confirmed with everyone — still waiting on Reid, and on whether Anna's
-      Stewards group and Laura can do a full Friday. Fallback if it doesn't land for enough people: push to
-      September rather than force a scattered version, though that risks losing Jose given his funding runs through
-      Aug 31 only.
+      <strong>Thu 8/27 afternoon + Fri 8/28 (full day) = 12 hours</strong>, the whole training in one week.
+      Confirmed with all four: Jose, Karla, Reid, and Laura (Laura may need to duck out around 2pm on
+      Thursday for another meeting — covered by the recording). Exact start/end times to follow.
     </p>
     <div class="row">
       <div class="col-md-5">
-        <h6>Day 1 — Thu 8/27, morning</h6>
+        <h6>Day 1 — Thu 8/27, afternoon</h6>
         <table class="table table-striped">
           <tr><td>Welcome, CLDT overview, backward design intro</td></tr>
           <tr><td>Identifying your learners: audience &amp; personas</td></tr>
@@ -574,7 +584,17 @@ of code below the Schedule `<h2>` header below with
         </table>
       </div>
     </div>
-    <p class="text-muted mb-0">Asynchronous lesson-drafting work continues between sessions and after the training, with bi-weekly check-ins.</p>
+
+    <h6 class="mt-4">Stewards cohort — schedule TBD</h6>
+    <p class="text-muted">
+      Anna's group has the option to join the Licensing session above (Thu 8/27 PM + Fri 8/28) if that timing
+      works for enough of the team. Otherwise, working assumption is a later date in September — a fresh
+      availability poll is going out (complicated a bit by one team member working EST hours Tuesday through
+      Thursday, though he's usually flexible). Same content and agenda either way; this section will fill in
+      once a date is confirmed.
+    </p>
+
+    <p class="text-muted mb-0 mt-3">Asynchronous lesson-drafting work continues between sessions and after the training, with bi-weekly check-ins.</p>
 
     {% comment %}
     Edit/replace the text above if you want to include a schedule table.
