@@ -430,9 +430,9 @@ address.
           <a href="https://github.com/UC-OSPO-Network/education/issues/83">lesson concept (issue #83)</a>
         </p>
         <ul>
-          <li>Karla Padilla — lead</li>
+          <li>Karla Padilla (UC San Diego) — lead</li>
           <li>Reid Otsuji (UC San Diego)</li>
-          <li>Laura Langdon</li>
+          <li>Laura Langdon (UC OSPO)</li>
           <li>Jose Niño Muriel (UC Santa Barbara)</li>
         </ul>
         <p class="text-muted mb-0"><em>Schedule: locked — Thu 8/27 afternoon + Fri 8/28 (full day).</em></p>

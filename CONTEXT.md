@@ -26,7 +26,7 @@
 | Cohort | Topic | Lead | Roster | Schedule |
 |---|---|---|---|---|
 | 1. Librarians as Open Source Stewards | [Scoped, issue #121](https://github.com/UC-OSPO-Network/education/issues/121) | Anna Sackmann | Anna Sackmann, Sam Teplitzky, Jake Gibson, Rachel Torres (all UC Berkeley) | Deferred to September by default (poll built, not sent: https://lettucemeet.com/l/o2KYR); alternative is joining Licensing's Thu PM + Fri session |
-| 2. Software Licensing | [Scoped, issue #83](https://github.com/UC-OSPO-Network/education/issues/83) | Karla Padilla | Karla Padilla, Reid Otsuji, Laura Langdon, Jose Niño Muriel (UCSB) | **Locked:** Thu 8/27 PM + Fri 8/28 full day |
+| 2. Software Licensing | [Scoped, issue #83](https://github.com/UC-OSPO-Network/education/issues/83) | Karla Padilla (UCSD) | Karla Padilla (UCSD), Reid Otsuji (UCSD), Laura Langdon (UC OSPO), Jose Niño Muriel (UCSB) | **Locked:** Thu 8/27 PM + Fri 8/28 full day |
 
 Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and joined Licensing as its 4th member.
 
