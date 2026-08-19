@@ -559,28 +559,39 @@ of code below the Schedule `<h2>` header below with
       Confirmed with all four: Jose, Karla, Reid, and Laura (Laura may need to duck out around 2pm on
       Thursday for another meeting — covered by the recording). Exact start/end times to follow.
     </p>
+    <p class="text-muted">
+      Episode order below follows the official
+      <a href="https://carpentries.github.io/lesson-development-training/">CLDT curriculum</a> (13 episodes,
+      instructor notes linked). For a licensing lesson, "example data" matters less than the narrative/use-case
+      thread does — we'll lean on the narrative half of episode 5 and de-emphasize dataset selection.
+    </p>
     <div class="row">
       <div class="col-md-5">
         <h6>Day 1 — Thu 8/27, afternoon</h6>
         <table class="table table-striped">
-          <tr><td>Welcome, CLDT overview, backward design intro</td></tr>
-          <tr><td>Identifying your learners: audience &amp; personas</td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/introduction.html">Introduction</a></td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/lesson-design.html">Lesson Design</a></td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/audience.html">Identifying Your Target Audience</a></td></tr>
           <tr><td>Break</td></tr>
-          <tr><td>Drafting terminal &amp; enabling learning objectives</td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/objectives.html">Defining Lesson Objectives</a></td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/narrative.html">Example Data and Narrative</a> — introduced, not finished</td></tr>
         </table>
+        <p class="text-muted"><em>Overnight: each team sits with the narrative/use-case question and comes back Friday with a candidate thread for their lesson — not a finished answer, just something to react to.</em></p>
       </div>
       <div class="col-md-7">
         <h6>Day 2 — Fri 8/28, full day</h6>
         <table class="table table-striped">
-          <tr><td>Review objectives; cognitive load &amp; sequencing</td></tr>
-          <tr><td>Structuring episodes from objectives; designing formative exercises</td></tr>
+          <tr><td>Share narrative threads from overnight, refine as a group</td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/episodes.html">Episodes</a></td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/formative-assessment.html">Designing Exercises</a></td></tr>
           <tr><td>Break</td></tr>
-          <tr><td>Carpentries Workbench mechanics (sandpaper, episode/lesson structure)</td></tr>
-          <tr><td>Drafting episode content in teams; peer feedback across cohorts</td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/explanation.html">How to Write a Lesson</a></td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/infrastructure.html">The Carpentries Workbench</a></td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/lesson-content.html">Adding Lesson Content</a> — drafting episode content in teams</td></tr>
           <tr><td>Lunch break</td></tr>
-          <tr><td>Finalizing lesson outline &amp; draft sections</td></tr>
-          <tr><td>Pilot-teach planning &amp; timeline; next steps (repo setup, Zenodo DOI, checkout path)</td></tr>
-          <tr><td>Wrap-up &amp; retro</td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/operations.html">How We Operate</a></td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/preparing.html">Preparing to Teach</a> — pilot-teach planning &amp; timeline; next steps (repo setup, Zenodo DOI, checkout path)</td></tr>
+          <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/wrap-up.html">Wrap-up</a></td></tr>
         </table>
       </div>
     </div>
