@@ -10,11 +10,11 @@
 | Carpentry type | cp (Carpentries — custom/instructor-style training) |
 | Curriculum / flavor | n/a |
 | Start date | **Licensing LOCKED:** Thu 8/27 (afternoon). **Stewards:** TBD |
-| End date | **Licensing LOCKED:** Fri 8/28 (full day) — afternoon+full day = 12 hours exactly, no additional days |
+| End date | **Licensing LOCKED:** Fri 8/28, hard stop at 5:00pm — no additional days |
 | Mode | online |
-| Format | Licensing: Thu PM + Fri full day = 12 hours, confirmed with all four (Reid can't do Thu AM, which is why it moved to PM). Stewards: same content, deferred to September by default — poll built (not sent), option to join Licensing's session instead if it still works for them |
+| Format | Licensing: Thu PM + Fri full day = ~11.5 hours (not a clean 12 — Friday's hard 5pm cutoff means slightly less), confirmed with all four (Reid can't do Thu AM, which is why it moved to PM). Stewards: same content, deferred to September by default — poll built (not sent), option to join Licensing's session instead if it still works for them |
 | Host institution | UCLA / UC OSPO Network |
-| Daily times + timezone | Thu: 1:00pm-5:00pm PT (starts at 1:00 sharp, not 12:30 — Reid's stated availability is "from 1pm" exactly). Fri: 9:00am-~6:00pm PT with a lunch break |
+| Daily times + timezone | Thu: 1:00pm-5:00pm PT (starts at 1:00 sharp, not 12:30 — Reid's stated availability is "from 1pm" exactly). Fri: 9:00am-5:00pm PT sharp, hard stop — this is why the skip-points pass on the curriculum mattered |
 | Contact email | tdennis@library.ucla.edu |
 | Trainer | Tim Dennis (UCLA / UC OSPO Network) — organizing and teaching directly, not Toby |
 | Registration | Closed cohort — not public |
@@ -55,6 +55,7 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [ ] Licensing lesson repo itself not yet created — per Tim's call, repo creation happens live in the Workbench episode (Fri), not pre-staged, so the team gets to do the actual exercise as taught; team access is pre-staged so whoever creates it can add the repo to `licensing-and-copyright` immediately
 - [ ] Candidate repo slug `licensing-and-copyright` proposed, not finalized; Markdown template (`workbench-template-md`), not RMarkdown — no code/data in this lesson
 - [ ] Stewards will get their own child team under `ospo-lesson-authors` once their repo slug is picked (no rush, schedule still TBD)
+- [ ] Reid, Karla, and Laura have a standing Tuesday meeting — Tue 8/25 (2 days before Thu 8/27 start) is a natural 15-min pre-training agenda slot. Jose isn't part of that meeting. Agenda draft below, not yet sent.
 
 ## Open Issues / Notes
 
@@ -62,3 +63,12 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - Directory and repo renamed from the `2026-tbd-cldt-ospo` placeholder to `2026-08-27-cldt-ospo` on 2026-08-17, using the target start date (Thu 8/27) even though it's not fully confirmed yet (waiting on Reid). If the training slips to September, rename again.
 - Source docs for this training: `~/obsidian/active/CLDT-cohort-coordination-plan.md`, `CLDT-one-pager.md`, `CLDT-committee-brief.md`, `~/obsidian/reference/wiki/ospo/carpentries-cldt.md`.
 - Draft schedule was synthesized from the CLDT wiki article's description of the backward-design curriculum, not a pre-existing agenda — review before publishing.
+
+## Tuesday 8/25 Standing Meeting — CLDT Prep (15 min)
+
+Reid, Karla, and Laura's regular Tuesday meeting, 2 days before Thursday's start. Jose isn't in this meeting.
+
+- Quick check: has everyone read issue #83 and the Markdown/GitHub primer?
+- Narrative/use-case: anyone have an early idea to float before Thursday, or starting fresh together?
+- Reid: confirm the UC-OSPO-Network org invite got accepted
+- Any Thu 1-5pm or Fri 9-5pm conflicts that have come up since the schedule locked?

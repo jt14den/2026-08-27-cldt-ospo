@@ -8,7 +8,7 @@ language: "en"
 latitude: "34.0700"
 longitude: "-118.4440"
 humandate: "Licensing LOCKED: Thu 8/27 (afternoon) + Fri 8/28 (full day), 2026. Stewards: TBD, may join same session or a later week"
-humantime: "Thu: 1:00pm-5:00pm PT. Fri: 9:00am-~6:00pm PT, with a lunch break"
+humantime: "Thu: 1:00pm-5:00pm PT. Fri: 9:00am-5:00pm PT sharp, with a short lunch break"
 startdate: 2026-08-24
 enddate: 2026-08-28
 instructor: ["Tim Dennis (UCLA / UC OSPO Network)"]
@@ -550,10 +550,11 @@ of code below the Schedule `<h2>` header below with
 
     <h6 class="mt-3">Licensing cohort — locked</h6>
     <p class="text-muted">
-      <strong>Thu 8/27, 1:00pm-5:00pm PT + Fri 8/28, 9:00am-~6:00pm PT (lunch break) = 12 hours</strong>,
+      <strong>Thu 8/27, 1:00pm-5:00pm PT + Fri 8/28, 9:00am-5:00pm PT sharp (short lunch break) = ~11.5 hours</strong>,
       the whole training in one week. Confirmed with all four: Jose, Karla, Reid, and Laura (Laura may
       need to duck out around 2pm on Thursday for another meeting — covered by the recording). Thursday
-      starts at 1:00 sharp, not earlier — Reid's availability starts at 1pm exactly.
+      starts at 1:00 sharp, not earlier — Reid's availability starts at 1pm exactly. Friday is a hard stop
+      at 5:00, which is exactly why we went through the curriculum looking for skip points.
     </p>
     <p class="text-muted">
       Episode order below follows the official
@@ -575,7 +576,7 @@ of code below the Schedule `<h2>` header below with
         <p class="text-muted"><em>Overnight: each team sits with the narrative/use-case question and comes back Friday with a candidate thread for their lesson — not a finished answer, just something to react to.</em></p>
       </div>
       <div class="col-md-7">
-        <h6>Day 2 — Fri 8/28, 9:00am-~6:00pm</h6>
+        <h6>Day 2 — Fri 8/28, 9:00am-5:00pm sharp</h6>
         <table class="table table-striped">
           <tr><td>Share narrative threads from overnight, refine as a group</td></tr>
           <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/episodes.html">Episodes</a></td></tr>
