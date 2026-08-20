@@ -47,6 +47,7 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [x] Created GitHub repo `jt14den/2026-08-27-cldt-ospo` (public) and pushed `gh-pages` branch, 2026-08-17
 - [x] GitHub Pages enabled (auto-enabled on push; already building as of 2026-08-17)
 - [ ] Fill in `collaborative_notes` (Carpentries Etherpad, if provided)
+- [x] Added Prerequisites + Pre-Reading sections (Markdown/GitHub primer, narrative-example-data background reading, Instructor Training prereq) 2026-08-20
 - [ ] Confirm whether Eventbrite/registration is needed at all (currently: no, closed cohort)
 - [x] GitHub team structure created 2026-08-20: parent `ospo-lesson-authors` (durable, generic — future lessons get their own child team here) → child `licensing-and-copyright` (scoped to the not-yet-created licensing repo)
 - [x] `licensing-and-copyright` team populated: Tim (maintainer), Karla `Kpadil16` (member), Laura `LauraLangdon` (maintainer — auto, she's an existing UC-OSPO-Network org admin), Reid `U2NG` (member, org invite pending), Jose `josenino95` (member, org invite pending)
