@@ -682,6 +682,25 @@ These are the installation instructions for the tools used during the workshop.
 {% elsif site.carpentry == "incubator" %}
   Please check the "Setup" page of <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow to obtain the software and data you will need to follow the lesson.
 {% else %}
+  <h3 id="prep">Preparing for the Training</h3>
+  <p>
+    This training is designed for a team working together to collaboratively design and develop a new lesson.
+    It helps to meet beforehand as a team and talk through:
+  </p>
+  <ul>
+    <li>Topic and scope — already drafted for us in <a href="https://github.com/UC-OSPO-Network/education/issues/83">issue #83</a>; worth a quick team read before Thursday</li>
+    <li>Who the lesson is aimed at</li>
+    <li>A candidate narrative or use case to hang the licensing content on — since this isn't a data-analysis lesson, we're leaning on the narrative half of the CLDT curriculum's <a href="https://carpentries.github.io/lesson-development-training/instructor/narrative.html">Example Data and Narrative</a> episode more than the dataset half</li>
+  </ul>
+  <p>
+    If your schedule allows, set aside some time between Thursday and Friday to follow up together on what
+    we started — not required, but past trainees said the extra time helped.
+  </p>
+  <p>
+    You'll need a GitHub account (see below) — we'll be working in the UC-OSPO-Network org, not personal
+    repos. Team setup in the org is in progress.
+  </p>
+
   <h3 id="workbench">The Carpentries Workbench</h3>
   <p>
     Lessons in this training are built with
