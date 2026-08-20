@@ -626,6 +626,11 @@ of code below the Schedule `<h2>` header below with
       well for the IMLS Open Science lesson cohorts: post-workshop coaching, not just a one-time training, is what
       gets a lesson from outline to a real draft ready to pilot.
     </p>
+    <p>
+      For Licensing specifically: Reid, Karla, and Laura already have a standing Tuesday meeting, so we're using
+      15 minutes of it each week as the concrete follow-up slot — working through whatever curriculum content
+      didn't fit into Thursday and Friday's tight schedule, rather than letting it just fall away.
+    </p>
   </div>
 </div>
 

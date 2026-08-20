@@ -64,11 +64,16 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - Source docs for this training: `~/obsidian/active/CLDT-cohort-coordination-plan.md`, `CLDT-one-pager.md`, `CLDT-committee-brief.md`, `~/obsidian/reference/wiki/ospo/carpentries-cldt.md`.
 - Draft schedule was synthesized from the CLDT wiki article's description of the backward-design curriculum, not a pre-existing agenda — review before publishing.
 
-## Tuesday 8/25 Standing Meeting — CLDT Prep (15 min)
+## Tuesday Standing Meeting — CLDT Coordination
 
-Reid, Karla, and Laura's regular Tuesday meeting, 2 days before Thursday's start. Jose isn't in this meeting.
+Reid, Karla, and Laura's regular Tuesday meeting (Jose isn't in it). Two uses:
 
+**Pre-training, Tue 8/25 (2 days before Thursday's start):**
 - Quick check: has everyone read issue #83 and the Markdown/GitHub primer?
 - Narrative/use-case: anyone have an early idea to float before Thursday, or starting fresh together?
 - Reid: confirm the UC-OSPO-Network org invite got accepted
 - Any Thu 1-5pm or Fri 9-5pm conflicts that have come up since the schedule locked?
+
+**Post-training, ongoing weekly:**
+- 15 min set aside each week to work through whatever curriculum content got skipped or compressed for time on Thu/Fri (see the skip-points list from the earlier scheduling pass) — mornings episode content, exercises, whatever didn't fit
+- Doubles as the concrete venue for the post-workshop support already promised on the site (content review, Workbench/GitHub help) — a standing slot instead of something ad hoc
