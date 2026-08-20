@@ -75,5 +75,5 @@ Reid, Karla, and Laura's regular Tuesday meeting (Jose isn't in it). Two uses:
 - Any Thu 1-5pm or Fri 9-5pm conflicts that have come up since the schedule locked?
 
 **Post-training, ongoing weekly:**
-- 15 min set aside each week to work through whatever curriculum content got skipped or compressed for time on Thu/Fri (see the skip-points list from the earlier scheduling pass) — mornings episode content, exercises, whatever didn't fit
+- Last 15-30 min of the meeting set aside each week to work through whatever curriculum content got skipped or compressed for time on Thu/Fri (see the skip-points list from the earlier scheduling pass) — episode content, exercises, whatever didn't fit
 - Doubles as the concrete venue for the post-workshop support already promised on the site (content review, Workbench/GitHub help) — a standing slot instead of something ad hoc
