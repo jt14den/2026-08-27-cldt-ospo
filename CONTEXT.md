@@ -46,9 +46,9 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [ ] Jose's funded time ends Aug 31 hard — this is why Licensing locked into this week rather than waiting on Stewards to coordinate too
 - [x] Created GitHub repo `jt14den/2026-08-27-cldt-ospo` (public) and pushed `gh-pages` branch, 2026-08-17
 - [x] GitHub Pages enabled (auto-enabled on push; already building as of 2026-08-17)
-- [ ] Fill in `collaborative_notes` (Carpentries Etherpad, if provided)
+- [ ] `collaborative_notes` — Tim is on the fence about using CodiMD for this (the duplicated `cldt-notes-template` doc, started 2026-08-19 but never finished — Tim hadn't logged in yet last we checked). Undecided, not blocking anything else.
 - [x] Added Prerequisites + Pre-Reading sections (Markdown/GitHub primer, narrative-example-data background reading, Instructor Training prereq) 2026-08-20
-- [ ] Confirm whether Eventbrite/registration is needed at all (currently: no, closed cohort)
+- [x] Eventbrite/registration confirmed not needed 2026-08-20 (closed cohort) — `eventbrite:` stays blank in frontmatter, matches what was already set
 - [x] GitHub team structure created 2026-08-20: parent `ospo-lesson-authors` (durable, generic — future lessons get their own child team here) → child `licensing-and-copyright` (scoped to the not-yet-created licensing repo)
 - [x] `licensing-and-copyright` team populated: Tim (maintainer), Karla `Kpadil16` (member), Laura `LauraLangdon` (maintainer — auto, she's an existing UC-OSPO-Network org admin), Reid `U2NG` (member, org invite pending), Jose `josenino95` (member, org invite pending)
 - [ ] Reid and Jose need to accept their UC-OSPO-Network org invitations
