@@ -8,7 +8,7 @@ language: "en"
 latitude: "34.0700"
 longitude: "-118.4440"
 humandate: "Licensing LOCKED: Thu 8/27 (afternoon) + Fri 8/28 (full day), 2026. Stewards: TBD, may join same session or a later week"
-humantime: "Thu: afternoon PT, exact time TBD. Fri: full day PT, exact times TBD"
+humantime: "Thu: 1:00pm-5:00pm PT. Fri: 9:00am-~6:00pm PT, with a lunch break"
 startdate: 2026-08-24
 enddate: 2026-08-28
 instructor: ["Tim Dennis (UCLA / UC OSPO Network)"]
@@ -550,9 +550,10 @@ of code below the Schedule `<h2>` header below with
 
     <h6 class="mt-3">Licensing cohort — locked</h6>
     <p class="text-muted">
-      <strong>Thu 8/27 afternoon + Fri 8/28 (full day) = 12 hours</strong>, the whole training in one week.
-      Confirmed with all four: Jose, Karla, Reid, and Laura (Laura may need to duck out around 2pm on
-      Thursday for another meeting — covered by the recording). Exact start/end times to follow.
+      <strong>Thu 8/27, 1:00pm-5:00pm PT + Fri 8/28, 9:00am-~6:00pm PT (lunch break) = 12 hours</strong>,
+      the whole training in one week. Confirmed with all four: Jose, Karla, Reid, and Laura (Laura may
+      need to duck out around 2pm on Thursday for another meeting — covered by the recording). Thursday
+      starts at 1:00 sharp, not earlier — Reid's availability starts at 1pm exactly.
     </p>
     <p class="text-muted">
       Episode order below follows the official
@@ -562,7 +563,7 @@ of code below the Schedule `<h2>` header below with
     </p>
     <div class="row">
       <div class="col-md-5">
-        <h6>Day 1 — Thu 8/27, afternoon</h6>
+        <h6>Day 1 — Thu 8/27, 1:00pm-5:00pm</h6>
         <table class="table table-striped">
           <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/introduction.html">Introduction</a></td></tr>
           <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/lesson-design.html">Lesson Design</a></td></tr>
@@ -574,7 +575,7 @@ of code below the Schedule `<h2>` header below with
         <p class="text-muted"><em>Overnight: each team sits with the narrative/use-case question and comes back Friday with a candidate thread for their lesson — not a finished answer, just something to react to.</em></p>
       </div>
       <div class="col-md-7">
-        <h6>Day 2 — Fri 8/28, full day</h6>
+        <h6>Day 2 — Fri 8/28, 9:00am-~6:00pm</h6>
         <table class="table table-striped">
           <tr><td>Share narrative threads from overnight, refine as a group</td></tr>
           <tr><td><a href="https://carpentries.github.io/lesson-development-training/instructor/episodes.html">Episodes</a></td></tr>
