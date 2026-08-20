@@ -48,6 +48,12 @@ Jose Niño Muriel (UCSB) declined to anchor a third cohort (2026-07-09/10) and j
 - [x] GitHub Pages enabled (auto-enabled on push; already building as of 2026-08-17)
 - [ ] Fill in `collaborative_notes` (Carpentries Etherpad, if provided)
 - [ ] Confirm whether Eventbrite/registration is needed at all (currently: no, closed cohort)
+- [x] GitHub team structure created 2026-08-20: parent `ospo-lesson-authors` (durable, generic — future lessons get their own child team here) → child `licensing-and-copyright` (scoped to the not-yet-created licensing repo)
+- [x] `licensing-and-copyright` team populated: Tim (maintainer), Karla `Kpadil16` (member), Laura `LauraLangdon` (maintainer — auto, she's an existing UC-OSPO-Network org admin), Reid `U2NG` (member, org invite pending), Jose `josenino95` (member, org invite pending)
+- [ ] Reid and Jose need to accept their UC-OSPO-Network org invitations
+- [ ] Licensing lesson repo itself not yet created — per Tim's call, repo creation happens live in the Workbench episode (Fri), not pre-staged, so the team gets to do the actual exercise as taught; team access is pre-staged so whoever creates it can add the repo to `licensing-and-copyright` immediately
+- [ ] Candidate repo slug `licensing-and-copyright` proposed, not finalized; Markdown template (`workbench-template-md`), not RMarkdown — no code/data in this lesson
+- [ ] Stewards will get their own child team under `ospo-lesson-authors` once their repo slug is picked (no rush, schedule still TBD)
 
 ## Open Issues / Notes
 

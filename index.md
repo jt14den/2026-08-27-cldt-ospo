@@ -216,12 +216,7 @@ address.
             Explain who your audience is.  (In particular, tell readers if the
             workshop is only open to people from a particular institution.
             {% endcomment %}
-            {% assign who_file = site.carpentry | append: '/who.html' %}
-            {% if isOfficial %}
-            {% include {{ who_file }} %}
-            {% else %}
-            This is a closed cohort training for two UC OSPO Network lesson development teams (Librarians as Open Source Stewards, and Software Licensing) who have already formed and confirmed participation. It is not open for general registration.
-            {% endif %}
+            {% include cp/who.html %}
         </dd>
     </div>
     <div class="row">
@@ -682,39 +677,5 @@ These are the installation instructions for the tools used during the workshop.
 {% elsif site.carpentry == "incubator" %}
   Please check the "Setup" page of <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow to obtain the software and data you will need to follow the lesson.
 {% else %}
-  <h3 id="prep">Preparing for the Training</h3>
-  <p>
-    This training is designed for a team working together to collaboratively design and develop a new lesson.
-    It helps to meet beforehand as a team and talk through:
-  </p>
-  <ul>
-    <li>Topic and scope — already drafted for us in <a href="https://github.com/UC-OSPO-Network/education/issues/83">issue #83</a>; worth a quick team read before Thursday</li>
-    <li>Who the lesson is aimed at</li>
-    <li>A candidate narrative or use case to hang the licensing content on — since this isn't a data-analysis lesson, we're leaning on the narrative half of the CLDT curriculum's <a href="https://carpentries.github.io/lesson-development-training/instructor/narrative.html">Example Data and Narrative</a> episode more than the dataset half</li>
-  </ul>
-  <p>
-    If your schedule allows, set aside some time between Thursday and Friday to follow up together on what
-    we started — not required, but past trainees said the extra time helped.
-  </p>
-  <p>
-    You'll need a GitHub account (see below) — we'll be working in the UC-OSPO-Network org, not personal
-    repos. Team setup in the org is in progress.
-  </p>
-
-  <h3 id="workbench">The Carpentries Workbench</h3>
-  <p>
-    Lessons in this training are built with
-    <a href="https://carpentries.github.io/sandpaper-docs/">The Carpentries Workbench</a>
-    (R packages: <code>sandpaper</code>, <code>varnish</code>, <code>pegboard</code>, <code>tinkr</code>).
-    Install R and RStudio, then run:
-  </p>
-  <pre><code>install.packages(c("sandpaper", "varnish", "pegboard", "tinkr"),
-    repos = c("https://carpentries.r-universe.dev/", getOption("repos")))</code></pre>
-
-  <h3 id="github">GitHub</h3>
-  <p>
-    You'll need a <a href="https://github.com/join">GitHub account</a> and a basic working
-    knowledge of Git — your team's lesson repo will live in the UC-OSPO-Network GitHub
-    organization.
-  </p>
+  {% include cp/setup.html %}
 {% endif %}
