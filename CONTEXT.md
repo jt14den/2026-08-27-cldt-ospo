@@ -14,7 +14,7 @@
 | Mode | online |
 | Format | Licensing: Thu PM + Fri full day = 12 hours, confirmed with all four (Reid can't do Thu AM, which is why it moved to PM). Stewards: same content, deferred to September by default — poll built (not sent), option to join Licensing's session instead if it still works for them |
 | Host institution | UCLA / UC OSPO Network |
-| Daily times + timezone | Thu: afternoon PT, exact time TBD. Fri: full day PT, exact times TBD |
+| Daily times + timezone | Thu: 1:00pm-5:00pm PT (starts at 1:00 sharp, not 12:30 — Reid's stated availability is "from 1pm" exactly). Fri: 9:00am-~6:00pm PT with a lunch break |
 | Contact email | tdennis@library.ucla.edu |
 | Trainer | Tim Dennis (UCLA / UC OSPO Network) — organizing and teaching directly, not Toby |
 | Registration | Closed cohort — not public |
