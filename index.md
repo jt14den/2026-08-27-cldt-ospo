@@ -15,7 +15,7 @@ instructor: ["Tim Dennis (UCLA / UC OSPO Network)"]
 helper: []
 email: ["tdennis@library.ucla.edu"]
 # Optional variables
-collaborative_notes:
+collaborative_notes: https://codimd.carpentries.org/SbA0GfwhQLeYYVRVDbERqA
 eventbrite:
 what3words:
 # DON'T CHANGE THIS
