@@ -634,6 +634,81 @@ of code below the Schedule `<h2>` header below with
   </div>
 </div>
 
+{% comment %}
+TRAINING MATERIALS
+
+Slides, notes, and working docs from the delivered Licensing session. The schema
+has no field for these, so they're listed here as a plain card. Source files live
+in files/ on the gh-pages branch (excluded from the Jekyll build); the "live" links
+point at the CodiMD docs used during the session.
+
+TODO: add the Day 2 slide-deck CodiMD URL once confirmed — the source file
+(files/slides-day2-friday.md) has no `slides:` line recorded.
+{% endcomment %}
+<div class="card mb-2">
+  <h5 class="card-header">Training Materials</h5>
+  <div class="card-body">
+    <p>
+      Slides, notes, and working documents from the Licensing cohort's session
+      (Thu 8/27 + Fri 8/28), kept here for reference and for the Stewards cohort,
+      who get the same content. Everything is under a
+      <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> license.
+    </p>
+    <dl class="mb-0">
+      <div class="row">
+        <dt class="col-sm-3 col-md-3 py-2 px-3 bg-body-light text-body-secondary fw-bold">Slides</dt>
+        <dd class="col py-2 px-3 mx-0 mb-0">
+          <ul class="mb-0">
+            <li>Day 1 — Thu 8/27 (backward design, audience, objectives, narrative):
+              <a href="https://codimd.carpentries.org/OGjyBF5ISNSgX-hyMBxprg">slide deck</a>
+              &middot;
+              <a href="https://github.com/jt14den/2026-08-27-cldt-ospo/blob/gh-pages/files/slides-day1-thursday.md">source</a>
+            </li>
+            <li>Day 2 — Fri 8/28 (episodes, exercises, the Workbench, adding content):
+              <a href="https://github.com/jt14den/2026-08-27-cldt-ospo/blob/gh-pages/files/slides-day2-friday.md">source</a>
+            </li>
+          </ul>
+        </dd>
+      </div>
+      <div class="row">
+        <dt class="col-sm-3 col-md-3 py-2 px-3 bg-body-light text-body-secondary fw-bold">Collaborative notes</dt>
+        <dd class="col py-2 px-3 mx-0 mb-0">
+          <ul class="mb-0">
+            <li>Shared running doc used during the session:
+              <a href="https://codimd.carpentries.org/SbA0GfwhQLeYYVRVDbERqA">CodiMD</a>
+            </li>
+            <li>Session notes, trimmed to what was covered live:
+              <a href="https://github.com/jt14den/2026-08-27-cldt-ospo/blob/gh-pages/files/notes-day1-thursday.md">Day 1</a>
+              &middot;
+              <a href="https://github.com/jt14den/2026-08-27-cldt-ospo/blob/gh-pages/files/notes-day2-friday.md">Day 2</a>
+            </li>
+          </ul>
+        </dd>
+      </div>
+      <div class="row">
+        <dt class="col-sm-3 col-md-3 py-2 px-3 bg-body-light text-body-secondary fw-bold">Lesson design notes</dt>
+        <dd class="col py-2 px-3 mx-0 mb-0">
+          <ul class="mb-0">
+            <li>Blank template, for a team to copy:
+              <a href="https://codimd.carpentries.org/HPwUE3FnTeSQJ9-_5EfU7Q?view">CodiMD</a>
+            </li>
+            <li>Licensing team's compiled Day 1 draft (a working copy, still has open questions):
+              <a href="https://github.com/jt14den/2026-08-27-cldt-ospo/blob/gh-pages/files/lesson-design-notes-licensing-draft.md">source</a>
+            </li>
+          </ul>
+        </dd>
+      </div>
+      <div class="row">
+        <dt class="col-sm-3 col-md-3 py-2 px-3 bg-body-light text-body-secondary fw-bold">Lesson repository</dt>
+        <dd class="col py-2 px-3 mx-0 mb-0">
+          <a href="https://github.com/UC-OSPO-Network/oss-license-workshop">UC-OSPO-Network/oss-license-workshop</a>
+          — the Licensing lesson under development in the Carpentries Workbench.
+        </dd>
+      </div>
+    </dl>
+  </div>
+</div>
+
 <hr/>
 
 

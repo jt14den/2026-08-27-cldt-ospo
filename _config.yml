@@ -148,6 +148,7 @@ exclude:
   - .vendor/
   - vendor/
   - .docker-vendor/
+  - files/  # archived training materials (slides/notes); linked from index.md via GitHub source, not built as site pages
 
 # Turn on built-in syntax highlighting.
 highlighter: rouge
